@@ -1,0 +1,33 @@
+.container {
+  display: inline-flex;
+  /* align-items items in column */
+  flex-direction: column;
+  /* center items horizontally */
+  align-items: center;
+  /* center items vertically */
+  justify-content: center;
+
+}
+
+.counter {
+  margin-bottom: 100px;
+}
+
+.done {
+  margin-top: 200px;
+}
+
+.selectbox {
+  display: inline-flex;
+  /* align-items items in column */
+  flex-direction: row;
+  /* center items horizontally */
+  align-items: center;
+  /* center items vertically */
+  justify-content: center;
+}
+
+.select {
+  /* margin-top: -5px; */
+  margin-left: 50px;
+}

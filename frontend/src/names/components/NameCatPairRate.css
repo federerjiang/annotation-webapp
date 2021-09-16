@@ -1,0 +1,26 @@
+.container {
+  display: inline-flex;
+  /* align-items items in column */
+  flex-direction: column;
+  /* center items horizontally */
+  align-items: center;
+  /* center items vertically */
+  justify-content: center;
+
+}
+
+.counter {
+  margin-bottom: 100px;
+}
+
+.done {
+  margin-top: 200px;
+}
+
+.box {
+  /* margin-bottom: 50px; */
+}
+
+.rating {
+  /* margin-top: -5px; */
+}
